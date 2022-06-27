@@ -1,2 +1,2 @@
 #!/bin/bash
-! js 10-no_more_js; exit $?
+file -name "*.js" -type f -delete
